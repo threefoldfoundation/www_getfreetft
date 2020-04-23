@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-04-20_1553",
+    "name": "FreeTFT Form",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -45,14 +45,21 @@
     "uniqCompNum": 3,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
-    "imageResize": true
+    "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/faucet-logo-128x86.png",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "FreeTFT",
+        "meta_descr": "Get your FreeTFT here by filling out our applicationform.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
